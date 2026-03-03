@@ -25,3 +25,6 @@ The Super Market Performance Analyzer is an interactive Power BI dashboard devel
 • Superstore Retail Dataset
 ## Outcome
 The dashboard transforms raw transactional data into an interactive, insight-driven reporting solution that enables business stakeholders to monitor performance, identify trends, and make strategic decisions.
+
+<img width="1283" height="764" alt="image" src="https://github.com/user-attachments/assets/03639f52-ab79-451c-9388-cfa4581b0193" />
+
